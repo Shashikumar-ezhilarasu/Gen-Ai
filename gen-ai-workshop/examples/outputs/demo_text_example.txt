@@ -1,0 +1,5 @@
+You are an AI tutor. Write a 3-line, encouraging tip for someone starting with generative AI:
+
+1. Start small—explore simple models like distilgpt2 to learn basics quickly.
+2. Practice prompts iteratively; add role, constraints, and format to guide outputs.
+3. Validate outputs and respect data/privacy—don't use private data without consent.

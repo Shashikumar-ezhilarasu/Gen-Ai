@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450">
+  <rect width="100%" height="100%" fill="#f6f8fa"/>
+  <g>
+    <rect x="50" y="50" width="700" height="350" rx="12" fill="#ffffff" stroke="#e1e4e8"/>
+    <text x="100" y="140" font-family="Arial" font-size="32" fill="#333">Robot teaching a class —</text>
+    <text x="100" y="190" font-family="Arial" font-size="20" fill="#666">Minimal, modern, flat vector style (placeholder)</text>
+  </g>
+</svg>
