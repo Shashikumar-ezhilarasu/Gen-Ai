@@ -9,4 +9,6 @@ Short reading and links for the workshop participants and instructors.
 - Responsible AI / Ethics: Partnership on AI resources https://partnershiponai.org/
 - Watermarking & detection: recent papers and HF tools (search for model watermarking)
 
+- Beginner project tutorials: `docs/beginner_projects.md` (hands-on project links and descriptions)
+
 Add more links here as needed.
