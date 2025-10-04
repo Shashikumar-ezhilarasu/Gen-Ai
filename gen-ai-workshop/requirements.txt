@@ -1,0 +1,8 @@
+transformers>=4.30
+diffusers>=0.16
+accelerate
+torch>=1.13
+sentencepiece
+datasets
+jupyter
+ipython
