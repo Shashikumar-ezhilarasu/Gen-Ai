@@ -1,4 +1,4 @@
-# Generative AI Workshop — [Your Workshop Name]
+# Generative AI Workshop 
 
 Welcome — this repo contains slides, runnable demos (Colab + Python), prompt examples, and notes for the workshop.
 
