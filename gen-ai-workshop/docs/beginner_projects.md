@@ -69,3 +69,45 @@ Below are five beginner-friendly projects with short descriptions and links to t
 9. **Introduction to Generative AI**  
    Learn what Generative AI is, how it works, and how it differs from traditional machine learning methods.  
    [Course](https://lnkd.in/gzqt7ehQ)
+
+## GitHub Repositories to Learn About AI Agents
+
+1. **Hands-On Large Language Models**  
+   Complete set of code notebooks from the book, covering everything from basics to advanced LLM fine-tuning.  
+   [Repository](https://lnkd.in/dxaVF86w)
+
+2. **AI Agents for Beginners**  
+   A free 11-part intro course to help newcomers build their first AI agents.  
+   [Repository](https://lnkd.in/dHvTmJnv)
+
+3. **GenAI Agents**  
+   Tutorials and code for building generative AI agents, ranging from simple to advanced techniques.  
+   [Repository](https://lnkd.in/dEt72MEy)
+
+4. **Made with ML**  
+   Learn to design, build, deploy, and improve production-ready machine learning applications.  
+   [Repository](https://lnkd.in/d2dMACMj)
+
+5. **Prompt Engineering Guide**  
+   Collection of resources, tutorials, and papers to master writing effective AI prompts.  
+   [Repository](https://lnkd.in/dBUCsVJ8)
+
+6. **Hands-On AI Engineering**  
+   Showcase of practical LLM-powered apps and agent-based solutions.  
+   [Repository](https://lnkd.in/dgQtRyk7)
+
+7. **Awesome Generative AI Guide**  
+   Curated hub for generative AI research, learning materials, and tools.  
+   [Repository](https://lnkd.in/dJ8gxp3a)
+
+8. **Designing Machine Learning Systems**  
+   Summaries and resources based on the Designing Machine Learning Systems book.  
+   [Repository](https://lnkd.in/dEx8sQJK)
+
+9. **Machine Learning for Beginners from Microsoft**  
+   A free, beginner-friendly introduction to machine learning concepts and practices, provided by Microsoft.  
+   [Repository](https://lnkd.in/dBj3BAEY)
+
+10. **LLM Course**  
+    Hands-on course with roadmaps and notebooks to design, build, and deploy LLM apps.  
+    [Repository](https://lnkd.in/diZgGACG)

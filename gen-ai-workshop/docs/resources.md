@@ -13,4 +13,6 @@ Short reading and links for the workshop participants and instructors.
 
 - More beginner AI project ideas (Google AI & NotebookLM): see the end of `docs/beginner_projects.md`
 
+- GitHub repositories for learning AI Agents: see `docs/beginner_projects.md`
+
 Add more links here as needed.
